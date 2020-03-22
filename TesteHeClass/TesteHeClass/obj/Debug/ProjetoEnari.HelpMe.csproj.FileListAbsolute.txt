@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\TesteHeClass\TesteHeClass\bin\Debug\TesteHeClass.exe.config
+C:\Users\user\source\repos\TesteHeClass\TesteHeClass\bin\Debug\TesteHeClass.exe
+C:\Users\user\source\repos\TesteHeClass\TesteHeClass\bin\Debug\TesteHeClass.pdb
+C:\Users\user\source\repos\TesteHeClass\TesteHeClass\obj\Debug\ProjetoEnari.HelpMe.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TesteHeClass\TesteHeClass\obj\Debug\ProjetoEnari.HelpMe.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TesteHeClass\TesteHeClass\obj\Debug\TesteHeClass.exe
+C:\Users\user\source\repos\TesteHeClass\TesteHeClass\obj\Debug\TesteHeClass.pdb
